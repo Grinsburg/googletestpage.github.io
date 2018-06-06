@@ -1,0 +1,49 @@
+
+.logoBox {
+    margin-top: 50%;
+}
+.inputStyle {
+    background-color: #f2f2f2;
+    border: 1px solid #e4e4e4;
+    color: #757575
+}
+
+.inputStyle:hover {
+    background-color: #fff;
+    border: 1px solid #e4e4e4;
+    color: #757575
+}
+
+.blockInfo {
+    background-color: #f2f2f2;
+    line-height: 30px;
+}
+
+.hgtInput {
+    height: 70%;
+}
+
+.descriptionText {
+    font-size: 14px;
+    color: #666666;
+}
+
+.btnBox {
+    background-color: white;
+}
+
+
+.input-group>.input-group-append>.input-group-text{
+    background-color: white;
+}
+.ptch {
+    padding-top: 23px;
+}
+
+div a{
+    color: #666;
+}
+
+div a:hover{
+    color: #666;
+}
