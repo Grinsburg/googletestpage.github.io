@@ -1,7 +1,12 @@
 
 .logoBox {
-    margin-top: 50%;
+    margin-top: 40%;
 }
+
+.input-group {
+    background-color: white;
+}
+
 .inputStyle {
     background-color: #f2f2f2;
     border: 1px solid #e4e4e4;
@@ -37,7 +42,7 @@
     background-color: white;
 }
 .ptch {
-    padding-top: 23px;
+    padding-top: 30px;
 }
 
 div a{
@@ -46,4 +51,11 @@ div a{
 
 div a:hover{
     color: #666;
+}
+.linkClass {
+    color: dodgerblue;
+}
+
+.linkClass:hover {
+    color: dodgerblue;
 }
